@@ -6,10 +6,10 @@
 name: Alexandre Andrade
 
 # Short bio or description (displayed in the header)
-description: Adventures in Software Development
+description: Self/Software Development
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/561629186712825856/CzqR-Uz1_400x400.jpeg
+avatar: /images/buddha.jpg
 
 #
 # Flags below are optional
@@ -53,8 +53,9 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+#highlighter: true
 markdown: redcarpet
-highlighter: pygments
+highlighter: pygments.rb
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
