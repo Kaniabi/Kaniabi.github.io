@@ -20,6 +20,24 @@ Delineando uma stack para desenvolvimento web usando somente Javascript.
 * [meteor](https://www.meteor.com/) : Why/Why not?
 
 
+# Editores online
+
+Existem alguns editores online de código.
+
+* [codepen](http://codepen.io/): Achei o mais bonito, mas não tem o console (existe um outro que tem o console também);
+
+# HTML Pre-processors
+
+Existem alguns pre-processors para geração do HTML. Goestei da idéia, mas (ainda) não sei qual seria o melhor. O que ví até agora foram:
+
+* [jade](http://jade-lang.com/)
+* [slim](http://slim-lang.com/)
+* haml
+* markdown
+
+Gostei da cara do SLIM mas ele é em ruby, o que faria o ambiente de desenvolvimento depender do ruby. O jade é em node.js, o que faz o ambiente ser menos eclético... mas a linguagem pareceu mais suja.
+
+
 # View
 
 Qual biblioteca usar para "view" de uma aplicação web?
